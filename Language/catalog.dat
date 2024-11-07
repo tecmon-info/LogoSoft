@@ -1,0 +1,17 @@
+#
+# Date: Thu Jul 16 10:32:56 CST 2009
+# Inhaltsverzeichnis der verfuegbaren Updates
+# kategorie | Name | Beschreibung | Dateiname des Updates | Classpath-Ergaenzung | relatives Zielverzeichnis | Groesse | Version ab | Version bis | Gueltig fuer Programmversion
+# A C H T U N G: Bei den Versionen und bei der Groessenangabe der Update-Files duerfen 
+#	zwischen "|" und den Ziffern keine Leerzeichen stehen!
+#
+language| Chinese V6|V6 Readme, Onlinehelp and user interface|Chinese_V6.luf|-|.|1247111|6.0.0|6.9.99|-9
+language| Japanese V6|V6 Readme, Onlinehelp and user interface|Japanese_V6.luf|-|.|1279559|6.0.0|6.9.99|-9
+language| Russion V6|V6 Readme, Onlinehelp and user interface|Russion_V6.luf|-|.|1357097|6.0.0|6.9.99|-9
+language| Turkish V6|V6 Readme, Onlinehelp and user interface|Turkish_V6.luf|-|.|1291399|6.0.0|6.9.99|-9
+language| Nederlands V6|V6 Readme, Onlinehelp and user interface|dutch_V6.luf|-|.|1298786|6.0.0|6.9.99|-9
+language|English V6|V6 Readme, Onlinehelp and user interface|english_V6.luf|-|.|1104487|6.0.0|6.9.99|-9
+language|Francais V6|V6 Readme, Onlinehelp and user interface|french_V6.luf|-|.|1324603|6.0.0|6.9.99|-9
+language|Deutsch V6|V6 Liesmich, Onlinehilfe und Bedienoberfläche|german_V6.luf|-|.|1301698|6.0.0|6.9.99|-9
+language| Italiano V6|V6 Readme, Onlinehelp and user interface|italian_V6.luf|-|.|1299799|6.0.0|6.9.99|-9
+language| Espanol V6|V6 Readme, Onlinehelp and user interface|spanish_V6.luf|-|.|1301000|6.0.0|6.9.99|-9

@@ -1,0 +1,47 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<script  type="text/javascript">
+// Diese JavaScript-Funktion darf nicht in HTML-Kommentare eingeschlossen werden
+
+// Ermitteln des Lauwerksbuchstaben der CD-ROM
+var urltext = parent.location.href; //get all param
+var CdRoot = urltext.substr(0,5);   //extract first char
+if (CdRoot =="file:")
+CdRoot = urltext.substr(8,1);
+else
+CdRoot = urltext.substr(0,1);
+
+//alert(CdRoot);
+</script>
+</head>
+
+<body bgcolor="#feffff" lang=PT link="#003399" vlink="#003399"
+style='tab-interval:35.4pt' marginwidth=15 marginheight=15 topmargin=15
+leftmargin=15 alink="#003399">
+
+<div class=Section1>
+
+<p><u><span style='font-family:Arial'>Instruções de instalação:</span></u></p>
+
+<p><span style='font-family:Arial'>1. Abra o gestor de ficheiros (p. ex. o Explorador
+do Windows)<br>
+<br>
+2. Na directoria principal do CD-ROM (drive <b><script type="text/javascript">
+document.write(CdRoot);
+</script>:</b>) encontra-se a sudirectoria <b>Windows </b>.</span></p>
+
+<p><span style='font-family:Arial'>3. Mude para esta directoria e execute aí o
+ficheiro <b>@fileWindows</b>.</span></p>
+
+</div>
+
+</body>
+
+</html>
